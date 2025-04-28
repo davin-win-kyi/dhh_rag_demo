@@ -12,9 +12,12 @@ and create a vector store of those docs to ground GPT-4o responses in real docum
 ## Repository Structure
 
 ```bash
-├── README.md            # This file
-├── requirements.txt     # Python dependencies
-└── rag.py               # RAG implementation script
+|   # Repository overview 
+├── README.md
+|   # Includes the Python libraries required         
+├── requirements.txt
+|   # Script with RAG implementation  
+└── rag.py               
 ```
 
 ---
